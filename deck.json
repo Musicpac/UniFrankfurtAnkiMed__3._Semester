@@ -1945,7 +1945,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<img src=\"parodont.jpg\" width=\"500\">",
-                                        "<div style=\"text-align: left;\">Parodontium, Zahnhalteapparat</div><ul><li style=\"text-align: left;\">links unten Dentin, darauf Zement&nbsp;</li><li style=\"text-align: left;\">kollagene Fasern des Zement setzen sich in Sharpey-fasern fort</li><li style=\"text-align: left;\">zw Fasern liegen Fibrozyten und Gefäße</li><li style=\"text-align: left;\">Bindegewebe strahlt in Alveolarknochen ein</li><li style=\"text-align: left;\">Zementozyten bilden Zement</li></ul>",
+                                        "<div style=\"text-align: left;\">Periodontium, Zahnhalteapparat</div><ul><li style=\"text-align: left;\">links unten Dentin, darauf Zement&nbsp;</li><li style=\"text-align: left;\">kollagene Fasern des Zement setzen sich in Sharpey-fasern fort</li><li style=\"text-align: left;\">zw Fasern liegen Fibrozyten und Gefäße</li><li style=\"text-align: left;\">Bindegewebe strahlt in Alveolarknochen ein</li><li style=\"text-align: left;\">Zementozyten bilden Zement</li></ul>",
                                         "",
                                         "Bilderraten",
                                         "Sisyphos"
@@ -3313,6 +3313,7 @@
                                         "IMG_2768.jpg",
                                         "IMG_2770.jpg",
                                         "IMG_2771.jpg",
+                                        "anatomie-eye.jpg",
                                         "b2aec93b14f441e196154accbc237f4e-ao-1-A.svg",
                                         "b2aec93b14f441e196154accbc237f4e-ao-1-Q.svg",
                                         "b2aec93b14f441e196154accbc237f4e-ao-2-A.svg",
@@ -3604,9 +3605,9 @@
                                             "fields": [
                                                 "M. tarsalis",
                                                 "<ul><li>glatte Muskulatur</li><li>hebt oberes Lid an</li><li>über Sympathikus innerviert (bei Müdigkeit ist Lidöffnung erschwert)</li></ul>",
-                                                "",
-                                                "",
-                                                ""
+                                                "<img alt=\"Anatomie Eye Stock Vektor Art und mehr Bilder von 2015 - 2015, Anatomie,  Auge - iStock\" src=\"anatomie-eye.jpg\" width=\"500\">",
+                                                "Histo Auge",
+                                                "Sisyphos"
                                             ],
                                             "guid": "K}?W`oGhkJ",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -3863,7 +3864,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Hornhautendothel",
-                                                "<ul><li>einschichtig</li><li>ca. 5 µm dick</li><li>Zellen durch tight junctions, Zonula adherens und Nexus verbunden</li></ul>",
+                                                "<ul><li>einschichtig</li><li>ca. 5 µm dick</li><li>Zellen durch Tight junctions, Zonula adhaerens und Nexus verbunden</li></ul>",
                                                 "",
                                                 "Histo Auge",
                                                 "Sisyphos"
@@ -3980,7 +3981,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Iris",
-                                                "<ul><li>Teil der Uvea</li><li>steuert Menge an Licht, die eintritt</li><li>Scheibe mit zentraler Öffnung (Pupille, 1-8 mm)</li><li>zwei Muskeln: M. sphincter pupillae (PS) , M. dilatator pupillae (S)</li><li>Hinterfläche: zwischichtiges Pigmentepithel (mit Melanin), lichtundurchlässig</li><li>Vorderfläche von Fibrozyten überzogen (kein Epithel!)</li><li>Stroma: Gefäße, Nerven, Fibrozyten, Kollagenfasern, vereinzelte Melanozyten</li></ul>",
+                                                "<ul><li>Teil der Uvea</li><li>steuert Menge an Licht, die eintritt</li><li>Scheibe mit zentraler Öffnung (Pupille, 1-8 mm)</li><li>zwei Muskeln: M. sphincter pupillae (PS), M. dilatator pupillae (S)</li><li>Hinterfläche: zweischichtiges Pigmentepithel (mit Melanin), lichtundurchlässig</li><li>Vorderfläche von Fibrozyten überzogen (kein Epithel!)</li><li>Stroma: Gefäße, Nerven, Fibrozyten, Kollagenfasern, vereinzelte Melanozyten</li></ul>",
                                                 "",
                                                 "Histo Auge",
                                                 "Sisyphos"
@@ -7056,16 +7057,16 @@
                                         "7dda910134074389b94411b85b236fa6-ao-O.svg",
                                         "paste-0410d200f97edafca2fb2c248b620de6f6c47853.png",
                                         "paste-0496395af994b9a43ba7fd38a35b79d896d4b444.png",
-                                        "paste-0574ad4e1b977683b75c07a27d9e0f36b57648d9.png",
+                                        "paste-0574ad4e1.svg",
                                         "paste-0746915ebbfbb24d68eb0d662ebf57945bdc2c9c.png",
                                         "paste-0b5106a7d635c274a26301bd0a6591cc34c9f5d7.png",
                                         "paste-0cb4f2867dfa6316ef3c862ad94bb05f38143b3c.png",
                                         "paste-1097ac2dfceb883b84d825fc4db9ba73345fa6f4.png",
                                         "paste-1353f93839f5d5f0a7dcdea17485e668818c120d.png",
-                                        "paste-1b2be6cb48b77f083a52d9e4ae123ad4d8cb490b.png",
+                                        "paste-1b2be6cb4.svg",
                                         "paste-1b7b254c9.svg",
                                         "paste-1e604d67e51c49b8d7052d4e03335d2b4e95d912.png",
-                                        "paste-2daeb9acd67f204aafa9ebf9958845c0a5baf4b0.png",
+                                        "paste-2daeb9acd.svg",
                                         "paste-2fcb19836e7d6df6b4eed6a3ad36b48c5203e437.png",
                                         "paste-30c0892287d7ff85be54218eb073aa0cb085d007.png",
                                         "paste-3392d3f8e9f39f02573bf6d0891bfd9e7b0e6100.png",
@@ -7088,7 +7089,7 @@
                                         "paste-7af1b6039dfd2ab325aa6054e534f4de3a511815.png",
                                         "paste-7bfaf01f939c84601f0b1a85208924b8004e38af.png",
                                         "paste-7cc475627e0e29559505b5adb449b23431877acc.png",
-                                        "paste-81b18466c8a3095d91cfe0a979b1e384f5d5bb27.png",
+                                        "paste-81b18466c.svg",
                                         "paste-8a93b2b9d.svg",
                                         "paste-8d9b43bea85e1fea84298f975d74514492658329.png",
                                         "paste-91f0d69cfc9ace4ae06af780e6b22af20ac5a401.png",
@@ -7097,15 +7098,15 @@
                                         "paste-9f6f33d0efb8e80220bbe1847f2063d11ec15faf.png",
                                         "paste-a11dccd0e1d8590b44d6c9724e42a5f2063aca7f.png",
                                         "paste-ad4aef2b89a3512aeaa329764786f0b78ae5aab5.png",
-                                        "paste-adf6bdc23aea3ee5feb397279a0cba5a67fc630c.png",
+                                        "paste-adf6bdc23.svg",
                                         "paste-bed85c0cbfdc4822a270424b670b198c61ec1eb8.png",
                                         "paste-bfecbf547cf8e88a5709ff5b568e18c2f33b8670.png",
                                         "paste-c5cf6651c77409e11d6e4f91cc0a184b2940c256.png",
                                         "paste-db557e507b7f5e871baf238ba2d2529d3737468d.png",
                                         "paste-e1b35ce2af2fc382ea3bf289dedc2d1b9fd4082f.png",
-                                        "paste-e78495f6cb554f5d52d578cee22ea1798cd96284.png",
+                                        "paste-e78495f6c.svg",
                                         "paste-e9195e121070840703ed0c2fd580d69f58559d10.png",
-                                        "paste-ea6829d240ce382c077d8532a2bb3d1c83b7c486.png",
+                                        "paste-ea6829d24.svg",
                                         "paste-ec3d82e99e4c409223cddabc3537ff5ba54add47.png",
                                         "paste-eec56ea879585bbc809fb7bdefdb7b6a53130d62.png",
                                         "paste-f1b59799b6bdb80c889a0451bbfbaf93d5315551.png",
@@ -7174,7 +7175,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "<img src=\"paste-71cc8f3e2.svg\" width=\"800\">",
-                                                "<img src=\"paste-0574ad4e1b977683b75c07a27d9e0f36b57648d9.png\" width=\"1000\">",
+                                                "<img src=\"paste-0574ad4e1.svg\" width=\"1000\">",
                                                 "",
                                                 "Histo",
                                                 "Ornytion"
@@ -7459,11 +7460,11 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Tonsilla palatina<div>Aufbau und Lage</div><div>Hochendotheliale venole</div>",
-                                                "<img src=\"paste-bfecbf547cf8e88a5709ff5b568e18c2f33b8670.png\">",
+                                                "<b>Tonsilla palatina</b><div>Aufbau und Lage</div><div>Hochendotheliale venole</div>",
+                                                "<img src=\"paste-bfecbf547cf8e88a5709ff5b568e18c2f33b8670.png\" width=\"1300\">",
                                                 "",
-                                                "",
-                                                ""
+                                                "Histo Lymphsystem",
+                                                "Sisyphos"
                                             ],
                                             "guid": "oQe}Htr6;2",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -7485,8 +7486,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"paste-ea6829d240ce382c077d8532a2bb3d1c83b7c486.png\" width=\"800\">",
-                                                "<img src=\"paste-1b2be6cb48b77f083a52d9e4ae123ad4d8cb490b.png\" width=\"1000\">",
+                                                "<img src=\"paste-ea6829d24.svg\" width=\"800\">",
+                                                "<img src=\"paste-1b2be6cb4.svg\" width=\"1000\">",
                                                 "",
                                                 "Histo",
                                                 "Sisyphos"
@@ -7498,11 +7499,11 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"paste-adf6bdc23aea3ee5feb397279a0cba5a67fc630c.png\">",
-                                                "<img src=\"paste-2daeb9acd67f204aafa9ebf9958845c0a5baf4b0.png\">",
+                                                "<img src=\"paste-adf6bdc23.svg\" width=\"800\">",
+                                                "<img src=\"paste-2daeb9acd.svg\" width=\"1000\">",
                                                 "",
-                                                "",
-                                                ""
+                                                "Histo",
+                                                "Sisyphos"
                                             ],
                                             "guid": "Pc4_8,28Ct",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -7524,10 +7525,10 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"paste-e78495f6cb554f5d52d578cee22ea1798cd96284.png\" width=\"1100\">",
-                                                "<img src=\"paste-81b18466c8a3095d91cfe0a979b1e384f5d5bb27.png\" width=\"1100\">",
+                                                "<img src=\"paste-e78495f6c.svg\" width=\"1100\">",
+                                                "<img src=\"paste-81b18466c.svg\" width=\"1100\">",
                                                 "",
-                                                "Histo Mandeln",
+                                                "Histo",
                                                 "Sisyphos"
                                             ],
                                             "guid": "sXl$Pcy>S=",
@@ -7928,12 +7929,12 @@
                                         "ae84ef2b89f44913a94a7a5d41cf67a1-ao-1-A.svg",
                                         "ae84ef2b89f44913a94a7a5d41cf67a1-ao-1-Q.svg",
                                         "ae84ef2b89f44913a94a7a5d41cf67a1-ao-O.svg",
+                                        "b2885a95c5c04e8.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-1-A.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-1-Q.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-2-A.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-2-Q.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-3-A.svg",
-                                        "b2885a95c5c04e8bbede69675e81b597-ao-3-Q.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-4-A.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-4-Q.svg",
                                         "b2885a95c5c04e8bbede69675e81b597-ao-5-A.svg",
@@ -8605,7 +8606,7 @@
                                             "fields": [
                                                 "Pituizyten",
                                                 "= spezifische Gliazellen der Neurohypophyse<br>(ähneln Astrozyten, im Zytoplasma zahlreich Ribosomen und Golgi-Körper → dunkelviolett in HE)&nbsp;",
-                                                "",
+                                                "<img alt=\"17. Vorlesung: Endokrine Organe-Karteikarten | Quizlet\" src=\"https://o.quizlet.com/6NvW3sGDAQMM1oCuoOMGaQ.jpg\">",
                                                 "Histo Hypophyse",
                                                 "Sisyphos"
                                             ],
@@ -9588,14 +9589,14 @@
                                                 "b2885a95c5c04e8bbede69675e81b597-ao-3",
                                                 "",
                                                 "<img src=\"IMG_2636.jpg\" />",
-                                                "<img src=\"b2885a95c5c04e8bbede69675e81b597-ao-3-Q.svg\" />",
+                                                "<img src=\"b2885a95c5c04e8.svg\">",
                                                 "",
                                                 "",
                                                 "",
                                                 "",
                                                 "",
                                                 "<img src=\"b2885a95c5c04e8bbede69675e81b597-ao-3-A.svg\" />",
-                                                "<img src=\"b2885a95c5c04e8bbede69675e81b597-ao-O.svg\" />"
+                                                "<img src=\"b2885a95c5c04e8bbede69675e81b597-ao-O.svg\">"
                                             ],
                                             "guid": "ikg-efe)q9",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -12632,6 +12633,7 @@
                                         "IMG_2607.jpg",
                                         "IMG_2608.jpg",
                                         "IMG_2609.jpg",
+                                        "IMG_2609.svg",
                                         "P51_01.jpg",
                                         "aa744c58703c44b79954c5bdff4ba70a-ao-1-A.svg",
                                         "aa744c58703c44b79954c5bdff4ba70a-ao-1-Q.svg",
@@ -12690,7 +12692,8 @@
                                         "ec3e5f3f4e544da7b48b8510c9d5f18e-ao-9-A.svg",
                                         "ec3e5f3f4e544da7b48b8510c9d5f18e-ao-9-Q.svg",
                                         "ec3e5f3f4e544da7b48b8510c9d5f18e-ao-O.svg",
-                                        "myelin-4.jpg"
+                                        "myelin-4.jpg",
+                                        "paste-b4c13e4225c4908493a912fa522b6449a83a38f8.jpg"
                                     ],
                                     "name": "Sonstiges mit Nerven",
                                     "newLimit": null,
@@ -12816,8 +12819,8 @@
                                                 "Ependymzellen",
                                                 "<ul><li>Herkunft: Neuralrohr</li><li>Vorkommen: ZNS</li><li>Wesentliche Funktionen: Auskleiden der inneren Hohlräume des ZNS</li></ul>",
                                                 "",
-                                                "",
-                                                ""
+                                                "Histo Nervensystem",
+                                                "Sisyphos"
                                             ],
                                             "guid": "tFQNYp>2&z",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -14637,15 +14640,15 @@
                                             "fields": [
                                                 "576b4b94a5464bc4959a821d50ffe00d-ao-1",
                                                 "",
-                                                "<img src=\"IMG_2609.jpg\" />",
+                                                "<img src=\"IMG_2609.svg\">",
                                                 "<img src=\"576b4b94a5464bc4959a821d50ffe00d-ao-1-Q.svg\" />",
                                                 "",
+                                                "- segmentierte Zytoplasmaräume der Schwann-Zellen<br>- werden durch Gap-Junctions in den Lamellen der Myelinscheide direkt miteinander verbunden<br>- Verbindungen für den Zellstoffwechsel → Müssen nicht die Spirale entlang gehen<br><br><img src=\"paste-b4c13e4225c4908493a912fa522b6449a83a38f8.jpg\" width=\"750\">",
                                                 "",
                                                 "",
                                                 "",
-                                                "",
-                                                "<img src=\"576b4b94a5464bc4959a821d50ffe00d-ao-1-A.svg\" />",
-                                                "<img src=\"576b4b94a5464bc4959a821d50ffe00d-ao-O.svg\" />"
+                                                "<img src=\"576b4b94a5464bc4959a821d50ffe00d-ao-1-A.svg\">",
+                                                "<img src=\"576b4b94a5464bc4959a821d50ffe00d-ao-O.svg\">"
                                             ],
                                             "guid": "DCv]di9E^V",
                                             "note_model_uuid": "b39a60ed-c040-11ee-a825-60f677a7f746",
@@ -34983,7 +34986,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Rolle der NK-Zelle im angeborenen Immunsystem",
-                                                "<ul><li>gehören als einzige Vertreter (der angeboren Antwort) zur lymphatischen Zelllinie</li><li>tragen keine antigenspezifische Rezeptoren</li><li>sind an früher Abwehr bestimmter intrazellulärer Infektionen beteiligt</li><li>setzen lytische Granula (Granzym/Porfin) frei → diese wirken toxisch auf Oberfläche der Zielzellen</li><ul><li>lösen damit Apoptose aus</li></ul><li>Spezifität erhalten NK-Zellen durch Rezeptoren für Körpereigene Moleküle, die ihre Aktivität gegen diese Zellen blockieren</li><li>tumor- oder virusinfizierte Zellen besitzen diese Moleküle nicht mehr</li></ul>",
+                                                "<ul><li>gehören als einzige Vertreter (der angeboren Antwort) zur lymphatischen Zelllinie</li><li>tragen keine antigenspezifische Rezeptoren</li><li>sind an früher Abwehr bestimmter intrazellulärer Infektionen beteiligt</li><li>setzen lytische Granula (Granzym/Porfin) frei → diese wirken toxisch auf Oberfläche der Zielzellen</li><ul><li>lösen damit Apoptose aus</li></ul><li>Spezifität erhalten NK-Zellen durch Rezeptoren für körpereigene Moleküle, die ihre Aktivität gegen diese Zellen blockieren</li><li>tumor- oder virusinfizierte Zellen besitzen diese Moleküle nicht mehr</li></ul>",
                                                 "<img src=\"image-45a3ace64.svg\" width=\"500\">",
                                                 "Immunsystem",
                                                 "Sisyphos"
@@ -35006,7 +35009,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "image-02816a0200cdb7ded3b978abeee3b8544424b811.png",
+                                        "image-02816a020.svg",
                                         "image-0c6c8db58.svg",
                                         "image-27e855ac5.svg",
                                         "image-2f5d27255.svg",
@@ -35196,10 +35199,10 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Aktivierung von naiven T-Zellen",
-                                                "<img src=\"image-02816a0200cdb7ded3b978abeee3b8544424b811.png\">",
-                                                "",
-                                                "",
-                                                ""
+                                                "<ul><li>erfordert mehrere Signale</li><ul><li>stimulatorisches Signal durch MHC2 am T-Zellrezeptor zusammen mit CD4</li><ul><li>→ Aktivierung</li></ul><li>co-stimulierende Signale über B7.1/B7.2 und CD28 → Überleben</li><li>Sezernierung von Cytokinen (IL 6, 12 und TGF-beta → Differenzierung</li></ul></ul><br>→ abhängig vom IL-Muster entsteht TH1 (durch Interferon gamm??) oder TH2 (IL5+6) Helferzellen<br>",
+                                                "<img src=\"image-02816a020.svg\">",
+                                                "Immunsystem",
+                                                "Sisyphos"
                                             ],
                                             "guid": "bWF1,SS@Qp",
                                             "note_model_uuid": "bfecb3c1-356f-11ef-8dc4-60f677a7f746",
@@ -35638,7 +35641,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Fibrinolyse Basis&nbsp;",
-                                                "<ul><li>mit fortschreitender Wundheilung muss Gerinnsel wieder aufgelöst werden</li><ul><li>Fibrinolyse ist enzymatisch gesteuerter Prozess, der am Fimbrin(Sicher das es hier nicht Fibrin ist) angreift</li></ul><li>Gewebsplasminogen-Aktivator = tPA</li><ul><li>steht am Anfang der Kaskade und ist eine Serinprotease (Endopeptidase)</li><li>besitzt schon als Proenzym eine geringe Aktivität</li><li>ist intravasal an Endothelzellen gebunden</li><li>aktiviert Plasminogen zu Plasmin durch limitierte Proteolyse</li><ul><li>Plasmin = Endopeptidase, die Fibrin (+Faktor 5 und 8) proteolytisch abbaut</li></ul><li>kann durch Thrombin freigesetzt werden</li><li>durch positive Rückkopplung (Plasmin aktiviert tPA) kommt es zur Verstärkung</li></ul><li>Prourokinase = uPA</li><ul><li>urokinase-type Plasminogen Activator</li><li>für extravasale Fibrinolyse zuständig</li><li>bindet an uPA-Rezeptor</li><li>zellassoziierte Plasminogenaktivierung führt zum Abbau der EZM</li><li>im Rahmen der Angiogenese bedeutend</li></ul><li>Inhibitoren fibrinolytischer Faktoren</li><ul><li>alpha2-Antiplasmin</li><li>PAI = Plasminogen activator inhibitors</li></ul></ul>",
+                                                "<ul><li>mit fortschreitender Wundheilung muss Gerinnsel wieder aufgelöst werden</li><ul><li>Fibrinolyse ist enzymatisch gesteuerter Prozess, der am Fibrin angreift</li></ul><li>Gewebsplasminogen-Aktivator = tPA</li><ul><li>steht am Anfang der Kaskade und ist eine Serinprotease (Endopeptidase)</li><li>besitzt schon als Proenzym eine geringe Aktivität</li><li>ist intravasal an Endothelzellen gebunden</li><li>aktiviert Plasminogen zu Plasmin durch limitierte Proteolyse</li><ul><li>Plasmin = Endopeptidase, die Fibrin (+Faktor 5 und 8) proteolytisch abbaut</li></ul><li>kann durch Thrombin freigesetzt werden</li><li>durch positive Rückkopplung (Plasmin aktiviert tPA) kommt es zur Verstärkung</li></ul><li>Prourokinase = uPA</li><ul><li>urokinase-type Plasminogen Activator</li><li>für extravasale Fibrinolyse zuständig</li><li>bindet an uPA-Rezeptor</li><li>zellassoziierte Plasminogenaktivierung führt zum Abbau der EZM</li><li>im Rahmen der Angiogenese bedeutend</li></ul><li>Inhibitoren fibrinolytischer Faktoren</li><ul><li>alpha2-Antiplasmin</li><li>PAI = Plasminogen activator inhibitors</li></ul></ul>",
                                                 "<img src=\"image-5f64f4170.svg\" width=\"500\">",
                                                 "Blutgerinnung",
                                                 "Sisyphos"
@@ -35820,7 +35823,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Plasmaproteine: 4. Peak – beta-Globuline",
-                                                "<ul><li style=\"text-align: left;\">macht etwa 9 % aus</li><li style=\"text-align: left;\">enthält</li><ul><li style=\"text-align: left;\">Hämopexin</li><li style=\"text-align: left;\">Tranferrin - transportiert Eisen</li><li style=\"text-align: left;\">Properidin</li><li style=\"text-align: left;\">Komplementsystemfaktoren</li><li style=\"text-align: left;\">C-reaktives Peptid (CRP) → Opsonierung</li><li style=\"text-align: left;\">beta<sub>2</sub>-Mikroglobuline</li></ul></ul>",
+                                                "<ul><li style=\"text-align: left;\">macht etwa 9 % aus</li><li style=\"text-align: left;\">enthält</li><ul><li style=\"text-align: left;\">Hämopexin</li><li style=\"text-align: left;\">Transferrin - transportiert Eisen</li><li style=\"text-align: left;\">Properidin</li><li style=\"text-align: left;\">Komplementsystemfaktoren</li><li style=\"text-align: left;\">C-reaktives Peptid (CRP) → Opsonierung</li><li style=\"text-align: left;\">beta<sub>2</sub>-Mikroglobuline</li></ul></ul>",
                                                 "<img src=\"image-0234993705f71b703a65c65f20e4fc0cd2fe6e93.jpg\" width=\"432\">",
                                                 "Plasmaproteine",
                                                 "Sisyphos"
@@ -36032,7 +36035,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Klinik: Hämoglobinopathien: Hb-S",
-                                                "<ul><li>S für Sichelzellanämie</li><li>war erst bekannte molekulare Erkrankung (Aufklärung)</li><li>Homozygoten zeigen hämolytische Anämie und Infarktneigung</li><ul><li>Erwachsenenalter wird nur mit intensiver Therapie erreicht</li></ul><li>mutierte Hämoglobin trägt an Position 6 der beta-Kette einen Valinrest statt ein Glutamatrest</li><ul><li>dadurch entsteht ein hydrophober \"Kopf\"</li><ul><li>→ passt genau in hydrophobe Mulde der beta-Kette eines zweiten Hämoglobintetramers</li></ul><li>Folge: Polymerisation der Hb, die starre Faserbündel bilden und so zur Sichelzellform führen</li><li>hydrophobes Loch nur in Desoxy-Form → also in den feinen Kapillaren</li></ul><li>so veränderte Erythrozyten sind weniger verformbar und werden schneller in Milz abgebaut (Hämolyse)</li><li>Heterozygoten von Hb-S haben ein Schutz gegen Malaria</li><ul><li>Plasmodien (Erreger der Malaria) säuern Erys an und verursachen damit schon früher die Polymerisation des Hb&nbsp;</li><ul><li>→ dadurch kommt es in Milz (Milzpassage) zur Aussonderung der infizierten Erythrozyten</li></ul></ul></ul>",
+                                                "<ul><li>S für Sichelzellanämie</li><li>war erste bekannte molekulare Erkrankung (25.11.1949, Paulin, Itano, Singer, Wells)</li><li>Homozygoten zeigen hämolytische Anämie und Infarktneigung</li><ul><li>Erwachsenenalter wird nur mit intensiver Therapie erreicht</li></ul><li>mutierte Hämoglobin trägt an Position 6 der beta-Kette einen Valinrest statt ein Glutamatrest</li><ul><li>dadurch entsteht ein hydrophober \"Kopf\"</li><ul><li>→ passt genau in hydrophobe Mulde der beta-Kette eines zweiten Hämoglobintetramers</li></ul><li>Folge: Polymerisation der Hb, die starre Faserbündel bilden und so zur Sichelzellform führen</li><li>hydrophobes Loch nur in Desoxy-Form → also in den feinen Kapillaren</li></ul><li>so veränderte Erythrozyten sind weniger verformbar und werden schneller in Milz abgebaut (Hämolyse)</li><li>Heterozygoten von Hb-S haben ein Schutz gegen Malaria</li><ul><li>Plasmodien (Erreger der Malaria) säuern Erys an und verursachen damit schon früher die Polymerisation des Hb&nbsp;</li><ul><li>→ dadurch kommt es in Milz (Milzpassage) zur Aussonderung der infizierten Erythrozyten</li></ul></ul></ul>",
                                                 "<img src=\"image-005be175b.svg\">",
                                                 "Klinik-Facts",
                                                 "Sisyphos"
@@ -44662,7 +44665,7 @@
                 0.33462784,
                 4.2106633
             ],
-            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "ignoreRevlogsBeforeDate": "",
             "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
